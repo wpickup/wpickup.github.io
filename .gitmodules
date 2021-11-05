@@ -1,0 +1,6 @@
+[submodule "wp-blog/themes/ananke"]
+	path = wp-blog/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
+[submodule "wp-blog/themes/hugo-curious"]
+	path = wp-blog/themes/hugo-curious
+	url = https://github.com/vietanhdev/hugo-curious
